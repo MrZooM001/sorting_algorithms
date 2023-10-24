@@ -25,4 +25,6 @@ void bubble_sort(int *array, size_t size);
 void insertion_sort_list(listint_t **list);
 void node_swp(listint_t **head, listint_t **firstnode, listint_t *secondnode);
 
+void selection_sort(int *array, size_t size);
+
 #endif
